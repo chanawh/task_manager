@@ -1,1 +1,3 @@
 tk
+werkzeug==2.0.0
+bcrypt
